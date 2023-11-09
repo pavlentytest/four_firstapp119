@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_name">Click on me!</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
